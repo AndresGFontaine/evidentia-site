@@ -1,6 +1,6 @@
 # Sitio web — Evidentia SpA
 
-Sitio de una página para Evidentia, dirección científica externa para proyectos de salud (Andrés González Fontaine).
+Sitio de una página para Evidentia, dirección científica externa para proyectos de salud.
 
 ## Estructura
 
@@ -43,6 +43,10 @@ Al ser HTML/CSS/JS estático, cualquiera de estas opciones funciona sin configur
 
 ## Próximos pasos sugeridos
 
-- Reemplazar `contacto@evidentia.cl` por el correo real.
-- Confirmar si quieres agregar un dominio propio (ej. evidentia.cl).
 - Decidir si se necesita una segunda página (ej. política de privacidad) si vas a captar correos.
+
+## Estado de publicación
+
+- Repo: https://github.com/AndresGFontaine/evidentia-site (público)
+- Publicado con GitHub Pages, dominio propio conectado: https://www.evidentialabs.cl
+- Correo de contacto: contacto@evidentialabs.cl
